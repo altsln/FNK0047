@@ -1,9 +1,9 @@
 /**********************************************************************
 * Filename    : 002_button_led
-* Description : Make builtin and external leds to blink, 
-* sync and alternate using functions
+* Description : Make builtin and external leds to turn ON,
+* based on the action on a button
 * Auther      : Alternative Solutions
-* Modification: 2026/02/02
+* Modification: 2026/02/03-04
 **********************************************************************/
 #define LED_BUILTIN  2
 #define PIN_BUTTON   13
