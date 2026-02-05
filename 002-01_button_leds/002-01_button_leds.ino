@@ -3,7 +3,7 @@
 * Description : Make builtin and external leds to be OFF, 
 * when pressing on the button (default LEDs are ON)
 * Auther      : Alternative Solutions
-* Modification: 2026/02/02
+* Modification: 2026/02/04
 **********************************************************************/
 #define LED_BUILTIN  2
 #define PIN_BUTTON   13
