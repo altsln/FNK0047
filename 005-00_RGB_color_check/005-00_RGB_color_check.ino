@@ -27,21 +27,25 @@ void setup() {
 void loop() {
   clearAllLeds();
   //turn red LED ON
+  delay(11 * DELAY_TIME);
   digitalWrite(ledPinArray[0], LOW);
   delay(11 * DELAY_TIME);
   
   clearAllLeds();
   //turn green LED ON
+  delay(11 * DELAY_TIME);
   digitalWrite(ledPinArray[1], LOW);
   delay(11 * DELAY_TIME);
   
   clearAllLeds();
   //turn Blue LED ON
+  delay(11 * DELAY_TIME);
   digitalWrite(ledPinArray[2], LOW);
   delay(11 * DELAY_TIME);
 
   clearAllLeds();
   //turn red LED ON
+  delay(11 * DELAY_TIME);
   digitalWrite(ledPinArray[0], LOW);
   delay(11 * DELAY_TIME);
   //turn green LED ON
