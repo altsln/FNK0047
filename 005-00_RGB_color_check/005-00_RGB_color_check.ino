@@ -8,7 +8,7 @@
 
 #define DELAY_TIME   50
 
-//define LED pin Array Red, Green, Blue
+//define LED pin Array Red(IO 23), Green(IO 5), Blue(IO 15)
 const byte ledPinArray[] = {23, 5, 15}; 
 int ledPinArraySize = 0;
 
@@ -19,7 +19,6 @@ void setup() {
   for (int i = 0; i < ledPinArraySize; i++) {
     pinMode(ledPinArray[i], OUTPUT);
   }
-  Serial.begin(112500);
 }
 
 
