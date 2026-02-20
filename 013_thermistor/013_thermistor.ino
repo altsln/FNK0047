@@ -5,7 +5,7 @@
 * Modification: 2026/02/19
 **********************************************************************/
 
-#define INPUT_PIN         4 //15       //define input analog Pin
+#define INPUT_PIN         36       //define input analog Pin
 //B is for thermal index
 #define B_VALUE           3950.0
 // Kelvin temperature (absolute temperature).
