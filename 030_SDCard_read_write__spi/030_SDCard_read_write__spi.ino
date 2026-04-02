@@ -1,8 +1,8 @@
 /**********************************************************************
 * Filename    : 030_SDCard_read_write__spi
 * Description : performing SDCard read write basic operations.
-* Auther      : Alternatives Solutions. Just make sure that 
-* the mount of the card was successful.
+* Just make sure for now that the mount of the card was successful.
+* Auther      : Alternatives Solutions. 
 * Modification: 2026/04/02
 **********************************************************************/
 
